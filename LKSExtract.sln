@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKSExtract", "LKSExtract\LKSExtract.csproj", "{D196ACB8-DAF1-4602-B620-93A8BE9FF9F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKSExtract", "LKSExtract\LKSExtract.csproj", "{ED3A3AB6-FF5A-45C9-AC0A-C35CBEB031EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D196ACB8-DAF1-4602-B620-93A8BE9FF9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D196ACB8-DAF1-4602-B620-93A8BE9FF9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D196ACB8-DAF1-4602-B620-93A8BE9FF9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D196ACB8-DAF1-4602-B620-93A8BE9FF9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3A3AB6-FF5A-45C9-AC0A-C35CBEB031EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3A3AB6-FF5A-45C9-AC0A-C35CBEB031EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3A3AB6-FF5A-45C9-AC0A-C35CBEB031EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3A3AB6-FF5A-45C9-AC0A-C35CBEB031EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
